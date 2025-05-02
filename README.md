@@ -1,8 +1,5 @@
 # 👨‍💻 Sanket Kumar - Web Developer | IT Enthusiast | Cloud Computing Learner
 
-![Developer Animation](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
-
----
 
 ## 🌐 About Me
 Hi there! I am **Sanket Kumar**, a passionate **Web Developer** with a strong background in **Frontend & Backend Development**, **Cloud Computing (GCP)**, and **Software Engineering**. I love building modern web applications, solving coding challenges, and exploring the latest technologies.
