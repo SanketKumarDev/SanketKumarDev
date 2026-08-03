@@ -1,78 +1,57 @@
-# 👨‍💻 Sanket Kumar - Web Developer | IT Enthusiast | Cloud Computing Learner
+<h1 align="center">Hi, I'm Sanket Kumar 👋</h1>
+<h3 align="center">Full Stack Developer | Building AI/LLM & RAG Systems</h3>
 
-
-## 🌐 About Me
-Hi there! I am **Sanket Kumar**, a passionate **Web Developer** with a strong background in **Frontend & Backend Development**, **Cloud Computing (GCP)**, and **Software Engineering**. I love building modern web applications, solving coding challenges, and exploring the latest technologies.
-
----
-
-## 🔧 My Journey: Developer + Cloud Learner + Teaching Assistant
-
-- **Web Developer**: Skilled in **JavaScript, React.js, Node.js, MongoDB, and Bootstrap**, I create responsive and dynamic applications. My projects include a **music player** and a **to-do list**.
-  
-- **Cloud Computing Learner**: Enthusiastic about **Google Cloud Platform (GCP)** and have completed courses related to **Cloud Security, Serverless Architecture, and Data Analytics**.
-  
-- **Teaching Assistant**: Assisting instructors in coding courses, helping students debug issues, and creating educational resources to simplify learning.
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack and Tools
+### 🧑‍💻 About Me
 
-- **Programming Languages**: `Java`, `JavaScript`, `HTML`, `CSS`
-- **Frontend Development**: `React.js`, `Bootstrap`, `Font Awesome`
-- **Backend Development**: `Node.js`, `Express.js`, `MongoDB`
-- **Cloud Computing**: `Google Cloud Platform (GCP)`
-- **Developer Tools**: `Git`, `GitHub`, `VS Code`
-
----
-
-## 🏆 Achievements
-
-- **Deloitte Data Analytics Virtual 2025 Program** - Completed successfully
-- **GitHub Projects** - Built and deployed multiple open-source projects
-- **Teaching Assistant** - Helping students master web development
-- **Coursera Certifications** - Currently learning and upskilling
+- 🎓 MCA graduate, currently looking for an entry-level **Software Developer / Full Stack Developer** role
+- 🛠️ I build full-stack web applications with **React.js, Node.js, Express.js, and MongoDB**
+- 🤖 Recently diving deep into **AI/LLM-powered systems** — built a Retrieval-Augmented Generation (RAG) pipeline from scratch
+- 🌱 Currently exploring hybrid retrieval, vector search, and LLM tooling
+- 📫 Reach me at **kumarsanket520@gmail.com**
 
 ---
 
-## 💻 Featured Projects
+### 🚀 Featured Projects
 
-1. **Music Player Web App**  
-   - Technologies Used: **HTML, CSS, JavaScript, Node.js**  
-   - Features: Interactive UI, music playback, and playlist management.
+**[RAG Document QA System — AskMyTechDocs](https://github.com/SanketKumarDev/production-rag-document-qa)**
+A Retrieval-Augmented Generation system for question answering over documents. Combines BM25 + FAISS hybrid retrieval, Cross-Encoder reranking, citation enforcement, and local LLM inference via Ollama.
+`Python` `FastAPI` `RAG` `FAISS` `BM25` `Sentence Transformers` `Cross-Encoder` `Ollama`
 
-2. **Minimal To-Do List**  
-   - Technologies Used: **JavaScript, HTML, CSS**  
-   - Features: Add, delete, and manage tasks efficiently.
+**[DevConnect](https://github.com/SanketKumarDev/Dev-Connect)** — [Live Demo](https://dev-connect-six-sepia.vercel.app/)
+A full-stack developer social platform — posts, likes, comments, follow system, and JWT authentication.
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
----
-
-## 🐍 Contributions
-
-<div align="center">
-  <h2>🐍 My GitHub Contributions 🐍</h2>
-  <br>
-  <img alt="github activity" src="https://raw.githubusercontent.com/aishworyann/aishworyann/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-<hr/>
-
-# 🔥 GitHub Stats
-| ![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanketKumarDev&rank_icon=percentile&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Sanket's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanketKumarDev&theme=tokyonight&border_radius=8) |
-| -- | -- |
-<hr>
+**[Real-Time Chat Application](https://github.com/SanketKumarDev/Real-Time_Chat-Application)** — [Live Demo](https://real-time-chat-application-ans0.onrender.com/)
+A real-time messaging app with one-to-one chat, live typing indicators, and online presence via WebSockets.
+`Node.js` `Socket.io` `Express.js` `MongoDB`
 
 ---
 
-## 💼 Let's Connect
+### 🛠️ Tech Stack
 
-- **Email**: kumarsanket520@gmail.com  
-- **LinkedIn**: [Sanket Kumar](www.linkedin.com/in/sanket-kumar-dev/)  
-- **GitHub**: [SanketKumarDev](https://github.com/SanketKumarDev)  
+**Languages:** JavaScript, Python, Java, HTML5, CSS3
+**Frontend:** React.js, Bootstrap, Streamlit
+**Backend:** Node.js, Express.js, FastAPI, REST APIs
+**AI/ML:** RAG, FAISS, BM25, Sentence Transformers, Cross-Encoder Reranking, Ollama
+**Database:** MongoDB, MySQL
+**Tools:** Git, GitHub Actions (CI/CD), Postman, Socket.io
+**Cloud:** GCP, AWS, Vercel, Render, Netlify
 
 ---
 
-### 🌟 "Coding is not just about writing code, it's about solving real-world problems efficiently."
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Signing+OFF!+👋;" />
-</h1>
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-kumar-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kumarsanket520@gmail.com)
